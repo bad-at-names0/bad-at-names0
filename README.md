@@ -2,7 +2,6 @@
 <h1 align="center">Hi , I'm Mayank Pathak</h1>
 <h3 align="center">A backend web developer and DSA enthusiast .</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87e7db51257fa949fb47ba8abe22ba884ee407733f489cc8a96264b24188f577/68747470733a2f2f692e696d6775722e636f6d2f724c46694172352e676966">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bad-at-names0" alt="bad-at-names0" /></a> </p>
 
 - 🔭 I’m currently working on [E-Commerce MERN project](https://github.com/bad-at-names0/E-Commerce-Backend-API)
 
