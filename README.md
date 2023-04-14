@@ -27,7 +27,7 @@
 <a href="https://codesandbox.com/bad-atnames0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="bad-atnames0" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bad_atnames" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bad_atnames" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bad_at_names" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bad_at_names" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bad_at_names0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bad_at_names0" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mayank-pathakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bad_at_names0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bad_at_names0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bad_at_names0" height="30" width="40" /></a>
 </p>
 
