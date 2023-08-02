@@ -14,10 +14,6 @@
 
 - 💬 Ask me about **Nodejs , MongoDB and DSA**
 
-- 📫 How to reach me **mayank.21ug1025@iiitranchi.ac.in**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HGa_oA1dKkRUn9OizWPd6ia1XQk3V9Rw7ShtWFG1cZI/edit?usp=sharing](https://docs.google.com/document/d/1HGa_oA1dKkRUn9OizWPd6ia1XQk3V9Rw7ShtWFG1cZI/edit?usp=sharing)
-
 - ⚡ Fun fact **I am a National Level Badminton player . I have also represented my college at IIT-BHU Spardha event . Also I have shortlisted for 1 AFSB Dehradun which is a selection stage for the Indian Air Force**
 
 <h3 align="left">Connect with me:</h3>
